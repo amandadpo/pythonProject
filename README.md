@@ -1,2 +1,2 @@
 # pythonProject
- Estudos em Python do CursoEmVideo
+ Estudos em Python 
